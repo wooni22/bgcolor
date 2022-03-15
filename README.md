@@ -1,2 +1,0 @@
-# bgcolor
-color
